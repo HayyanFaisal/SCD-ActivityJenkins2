@@ -1,0 +1,17 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Building Temperature Converter Project...",
+    "test": "jest"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
